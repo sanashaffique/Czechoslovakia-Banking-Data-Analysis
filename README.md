@@ -171,6 +171,4 @@ Insights can guide business strategy and risk management
 
 Author
 
-Sana Shaffique – Data Analyst Portfolio Project
-
-This is a hire-ready project demonstrating data cleaning, modeling, analysis, and dashboarding in Excel.
+Sana Shaffique 
